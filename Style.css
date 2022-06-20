@@ -1,0 +1,326 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display&display=swap');
+
+body{
+
+  font-family: 'Noto Serif Display', serif;
+
+  background-image: url(paolo.jpg);
+
+  background-repeat: no-repeat;
+
+  background-size: 900px;
+
+  background-position: 35.5px 500px;
+
+}
+
+button[name="drop"]{
+
+  border: none;
+
+  cursor: pointer;
+
+  background-color: white;
+
+  padding: 25px;
+
+  font-size: 30px;
+
+  background-color: white;
+
+}
+
+.drop-content{
+
+  display: none;
+
+  background-color: white;
+
+}
+
+.drop-content a{
+
+  color: black;
+
+  padding: 40px 59px;
+
+  text-decoration: none;
+
+  display: block;
+
+  font-size: 20pt;
+
+}
+
+.menu-drop:hover .drop-content{
+
+  display: block;
+
+}
+
+.menu-drop:hover button[name="drop"]{
+
+  background-color: white;
+
+}
+
+.drop-content a:hover{
+
+  background-color: white;
+
+}
+
+.drop-content{
+
+  display: none;
+
+  background-color: white;
+
+  position: absolute; 
+
+}
+
+.menu-drop{
+
+  text-align: justify;
+
+  margin-left: 60%;
+
+  margin-top: -15%;
+
+ }
+
+ .vog{
+
+   margin-left: 5%;
+
+ }
+
+ 
+
+ button[name="drop-1"]{
+
+  border: none;
+
+  cursor: pointer;
+
+  background-color: white;
+
+  padding: 25px;
+
+  font-size: 30px;
+
+  color: black;
+
+}
+
+.drop-content-1{
+
+  display: none;
+
+  background-color: white;
+
+  font-size: 15pt;
+
+}
+
+.drop-content-1 a{
+
+  color: black;
+
+  padding: 40px 59px;
+
+  text-decoration: none;
+
+  display: block;
+
+  font-size: 20pt;
+
+}
+
+.menu-drop-1:hover .drop-content-1{
+
+  exibição: bloco;
+
+}
+
+.menu-drop-1:botão de passar o mouse[name="drop-1"]{
+
+  cor de fundo: branco;
+
+}
+
+.drop-content-1 a:hover{
+
+  cor de fundo: branco;
+
+}
+
+.drop-content-1{
+
+  Mostrar nenhum;
+
+  cor de fundo: branco;
+
+  posição: absoluta;
+
+}
+
+.menu-drop-1{
+
+  margem esquerda: 85%;
+
+  margem superior: -12%;
+
+}
+
+.icon1{
+
+  tamanho da fonte: 20pt;
+
+}
+
+.vogue .vog{
+
+  tamanho da fonte: 150pt;
+
+  cor vermelha;
+
+  margem esquerda: 13%;
+
+  margem superior: 18%;
+
+}
+
+.vogue .ita{
+
+  cor vermelha;
+
+  tamanho da fonte: 16pt;
+
+  margem esquerda: 30,5%;
+
+  margem superior: -35%;
+
+}
+
+.vogue .cover{
+
+  cor branca;
+
+  tamanho da fonte: 15pt;
+
+  margem esquerda: 35%;
+
+  margem superior: 10%;
+
+}
+
+.vogue .port{
+
+  cor branca;
+
+  margem esquerda: 30%;
+
+  margem superior: 33%;
+
+  tamanho da fonte: 40pt;
+
+}
+
+.vogue .foto{
+
+  cor branca;
+
+  margem esquerda: 37%;
+
+  tamanho da fonte: 18pt;
+
+}
+
+.rodapé{
+
+  alinhamento de texto: centro;
+
+  cor de fundo: preto;
+
+  margem superior: 40%;
+
+  borda: preto sólido de 1px;
+
+  margem esquerda: -8px;
+
+  margem direita: -8px;
+
+}
+
+.footer .vogue-1{
+
+  alinhamento de texto: centro;
+
+  margem superior: 20%;
+
+  tamanho da fonte: 35pt;
+
+  cor de fundo: preto;
+
+  cor branca;
+
+}
+
+.footer .redes ul {
+
+  display: flex;
+
+  list-style: none;
+
+  
+
+}
+
+.icon {
+
+  font-size: 20pt;
+
+  margin: 20px;
+
+  margin-left: 30%;
+
+  color: pink;
+
+  background-color: black
+
+}
+
+.noticia .not{
+
+  color: white;
+
+  font-size: 20pt;
+
+}
+
+.termos{
+
+  background-color: black;
+
+  border: 1px solid black;
+
+  margin-left: -8px;
+
+  margin-right: -8px;
+
+}
+
+ .termos-1 li{
+
+  color: white;
+
+  display: block;
+
+  text-align: center;
+
+  font-size: 20pt;
+
+}
+
